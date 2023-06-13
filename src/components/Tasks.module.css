@@ -1,0 +1,10 @@
+.tasksContainer {
+  width: 100%;
+  max-width: 736px;
+}
+
+@media (max-width: 600px) {
+  .tasksContainer {
+    padding: 1rem;
+  }
+}
